@@ -1,0 +1,3 @@
+com\javasampleapproach\uploadfile\SpringBootUploadFileApplication.class
+com\javasampleapproach\uploadfile\controller\UploadController.class
+com\javasampleapproach\uploadfile\storage\StorageService.class
